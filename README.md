@@ -16,7 +16,7 @@ The model incorporates key readmission predictors known from NHS clinical resear
 | Feature  | Category Variables |
 | ------------- | ------------- |
 | Demographics  | Age, Gender, Ethnicity  |
-| Social Factors  | Content Cell  |
+| Social Factors  | IMD Quintile  |
 | Clinical  | Primary diagnosis, Charlson Comorbidity Index, Length of stay (LACE) |
 | Care History  | Previous Admission last 12 months  |
 | Admission Details  | Admission Method, Emergency Status  |
